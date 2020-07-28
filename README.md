@@ -1,4 +1,6 @@
 # Podocyte Morphometrics
+Author: Rhodora C. Calizo
+
 This repository is home to the various scripts created by Rhodora C.Calizo (Bonnie) https://www.linkedin.com/in/rhodora-calizo/ for basic cell morphometrics. This repository consists of scripts in Matlab, Cell Profiler and ImageJ. The results for these scripts are published, for more information see the manuscript below. 
 
 # Corresponding Publication
